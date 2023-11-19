@@ -5,7 +5,8 @@ on:
 # Replace `main` with your branch's name
     push:
         branches: ["main"]
-# Specify to run a workflow manually from the Actions tab on GitHub
+        paths: ['Writerside']
+  # Specify to run a workflow manually from the Actions tab on GitHub
     workflow_dispatch:
 
 # Gives the workflow permissions to clone the repo and create a page deployment
