@@ -11,7 +11,7 @@
     <build-profile instance="vauth">
         <variables>
             <noindex-content>false</noindex-content>
-            <primary-color>blueberry</primary-color>
+            <primary-color>frozen</primary-color>
         </variables>
     </build-profile>
 
